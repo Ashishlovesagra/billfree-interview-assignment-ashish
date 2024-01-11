@@ -7,8 +7,7 @@ I have created a music player website using the Spotify API. This project is a R
 2. Install dependencies using `npm install`.
 3. Set up a Spotify Developer account and obtain API credentials.
 4. Replace `'SPOTIFY_API_ENDPOINT'` in `components/Player.js` with the actual Spotify API endpoint.
-5. Run the application using `npm run dev`.
-
+5. Run the application using `npm run dev`
 
 
 ## Components
@@ -66,14 +65,6 @@ The `Player` component is a React component that imports various dependencies an
 
 ### 18. App.jsx
 The `App` component renders the `Home` component.
-
-## Usage
-
-npm run dev to run this project.
-
-## Installation
-
-npm install to download all dependencies and set up the project.
 
 ## License
 
